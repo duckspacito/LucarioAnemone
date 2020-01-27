@@ -1,4 +1,4 @@
-![# Anemone3DS](https://github.com/duckspacito/LucarioAnemone/blob/master/meta/icon.png)
+![# Anemone3DS](https://github.com/duckspacito/LucarioAnemone/blob/master/meta/banner.png)
 
 A Theme and Splashscreen Manager for the Nintendo 3DS, written in C.\
 To-do list here: https://trello.com/b/F1YSa1VK
